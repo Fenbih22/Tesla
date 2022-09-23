@@ -3,6 +3,8 @@ Deploy python apps
 deploy in the dev env
 <<<<<<< HEAD
 deployment5 master
-=======
 deployment4
->>>>>>> dev
+deploy to staging env
+echo good job
+Tested and accepted
+
