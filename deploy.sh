@@ -5,4 +5,4 @@ deploy in the dev env
 deployment5 master
 =======
 deployment4
->>>>>>> dev
+deploy to statging
